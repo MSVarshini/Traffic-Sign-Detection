@@ -3,6 +3,7 @@ TRAFFIC SIGN DETECTION is a project which detects the Traffic Signs. It will tak
 
 ### DATASET :
 we used German Traffic Sign Recognition Benchmark(GTSRB) Dataset. It contains around 40,000 images classified into 43 labels( 43 different traffic signs).
+Dataset link : https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 ### RUN THE PROJECT :
 1. Get all the data from the GitHub, Open Command prompt or any other Terminal and run the command :    
